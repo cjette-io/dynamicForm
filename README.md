@@ -69,6 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
+### Create .env file
+
+Add this in API_URL, http://vb-react-exam.netlify.app/api/form
+
 ### To enable the CORS for temporary access
 
 Go to this link : https://cors-anywhere.herokuapp.com/ to learn more.
